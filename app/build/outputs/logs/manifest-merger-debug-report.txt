@@ -1,69 +1,110 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\0b50e293ad359c1e0291426b622c455c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7733965d894e79d1120aefe1fde13588\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c70ce5df0c079fb09cb9fa056dcc47a0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\10a3259e1b4fa381e9fe35aad4576ed8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e039712dc9b4d40449c6396369acbebb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\65283a26e5974c7cbd1e309446048c0f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\77bbe3cd9f4b1ae2cec53b5fc23c58f1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\90b9ae411b9025e8f27e3237ca6c365f\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:8:9-41
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\0b50e293ad359c1e0291426b622c455c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\0b50e293ad359c1e0291426b622c455c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7733965d894e79d1120aefe1fde13588\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7733965d894e79d1120aefe1fde13588\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c70ce5df0c079fb09cb9fa056dcc47a0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c70ce5df0c079fb09cb9fa056dcc47a0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\10a3259e1b4fa381e9fe35aad4576ed8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\10a3259e1b4fa381e9fe35aad4576ed8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e039712dc9b4d40449c6396369acbebb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e039712dc9b4d40449c6396369acbebb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\65283a26e5974c7cbd1e309446048c0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\65283a26e5974c7cbd1e309446048c0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\77bbe3cd9f4b1ae2cec53b5fc23c58f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\77bbe3cd9f4b1ae2cec53b5fc23c58f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\90b9ae411b9025e8f27e3237ca6c365f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\90b9ae411b9025e8f27e3237ca6c365f\AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:9:9-35
-	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:10:9-40
 activity#cn.lcj.com.myhelloword.MainActivity
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:11:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:12:13-16:29
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\0b50e293ad359c1e0291426b622c455c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\0b50e293ad359c1e0291426b622c455c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7733965d894e79d1120aefe1fde13588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\7733965d894e79d1120aefe1fde13588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c70ce5df0c079fb09cb9fa056dcc47a0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\c70ce5df0c079fb09cb9fa056dcc47a0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\10a3259e1b4fa381e9fe35aad4576ed8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\10a3259e1b4fa381e9fe35aad4576ed8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e039712dc9b4d40449c6396369acbebb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\e039712dc9b4d40449c6396369acbebb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\65283a26e5974c7cbd1e309446048c0f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\65283a26e5974c7cbd1e309446048c0f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\77bbe3cd9f4b1ae2cec53b5fc23c58f1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\77bbe3cd9f4b1ae2cec53b5fc23c58f1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\90b9ae411b9025e8f27e3237ca6c365f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\90b9ae411b9025e8f27e3237ca6c365f\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\AndroidStudioProjects\myWorkSpace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\soft\gradle\gradle-4.10\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\8f531be9610fc2e7c0ac273808b152ed\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\myWorkSpace\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		ADDED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
+		INJECTED from D:\map\HelloWord123.git\app\src\main\AndroidManifest.xml
